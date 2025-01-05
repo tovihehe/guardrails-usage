@@ -57,7 +57,7 @@ The provided code demonstrates the application of Guardrails to ensure that outp
 ![image](https://github.com/user-attachments/assets/525135bd-6580-4f60-8143-747921ec5512)
 
 ## Resources used
-- [Guardrails Documentation]([https://docs.guardrails.ai/](https://github.com/guardrails-ai/guardrails)
+- [Guardrails Documentation](https://github.com/guardrails-ai/guardrails)
 - [Guardrails Hub](https://hub.guardrailsai.com/)
 
 ## Contributing
