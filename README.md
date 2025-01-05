@@ -1,7 +1,4 @@
 # Guardrails framework 🧱
-
-## Overview
-
 Guardrails is a Python framework designed to build reliable AI applications by performing two critical functions:
 
 1. **Input/Output Guarding**: Detecting, quantifying, and mitigating specific risks in inputs to and outputs from large language models (LLMs) or agents.
