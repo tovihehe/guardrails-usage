@@ -1,5 +1,4 @@
-# Guardrails Framework
-
+# Guardrails framework 🧱
 ## Overview
 
 Guardrails is a Python framework designed to build reliable AI applications by performing two critical functions:
@@ -57,6 +56,7 @@ The provided code demonstrates the application of Guardrails to ensure that outp
 - Free of personally identifiable information (PII).
 - Relevant to the defined topic.
 
+![image](https://github.com/user-attachments/assets/525135bd-6580-4f60-8143-747921ec5512)
 
 ## Additional Resources
 - [Guardrails Documentation](https://docs.guardrails.ai/)
